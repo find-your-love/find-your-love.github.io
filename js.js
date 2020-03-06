@@ -4,7 +4,7 @@ function get_link(a = 1) {
         a = atob(a);
     } else {
         //real
-        var a = "YUhSMGNITTZMeTlzYVhabGJXRnpkSFZ5WW1GMGFXOXVMbk5vYjNKMFkyMHViR2t2WlZaR1kybFE=";
+        var a = "YUhSMGNEb3ZMMjkzTG14NUwwNUdWRWd6TUhGdVRsSm4=";
         a = atob(a);
     }
     return a;
