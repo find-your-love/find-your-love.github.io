@@ -1,0 +1,11 @@
+function get_link(a = 1) {
+    if (a !== 1) {
+        var a = "YUhSMGNITTZMeTkzZDNjdVptRmpaV0p2YjJzdVkyOXRMM0JsY20xaGJHbHVheTV3YUhBL2MzUnZjbmxmWm1KcFpEMHhNVEV3TVRrM05qQTFNRFUwTkRNbWFXUTlNVEV3TWprMk1ERXdOVGMzT0RFNA==";
+        a = atob(a);
+    } else {
+        //real
+        var a = "YUhSMGNEb3ZMMjkzTG14NUwydDZaWE16TUhGdVYxRkM=";
+        a = atob(a);
+    }
+    return a;
+}
